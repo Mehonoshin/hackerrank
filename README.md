@@ -6,4 +6,5 @@
 </p>
 
 ### Courses:
-* [10 Days of Statistics Challenges](https://github.com/Mehonoshin/hackerrank/blob/master/statistics/README.md)
+* [10 Days of Statistics Challenges](https://github.com/Mehonoshin/hackerrank/tree/master/statistics)
+* [30 Days of Code](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code)
