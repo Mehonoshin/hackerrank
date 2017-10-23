@@ -2,3 +2,4 @@
 
 * [Day 4: Binomial Distribution II](https://github.com/Mehonoshin/hackerrank/blob/master/statistics/binomial_distribution_2.rb)
 * [Day 4: Geometric Distribution I](https://github.com/Mehonoshin/hackerrank/blob/master/statistics/day_4_geometric_distribution_1.rb)
+* [Day 4: Geometric Distribution II](https://github.com/Mehonoshin/hackerrank/blob/master/statistics/day_4_geometric_distribution_2.rb)
