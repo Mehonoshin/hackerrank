@@ -2,3 +2,4 @@
 
 * [Day 15: Linked List](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_15_linked_list.rb#L1)
 * [Day 16: Exceptions - String to Integer](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_16_string_to_integer.rb#L1)
+* [Day 17: More Exceptions](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_17_more_exceptions.rb)
