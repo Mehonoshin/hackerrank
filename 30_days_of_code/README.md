@@ -5,3 +5,4 @@
 * [Day 17: More Exceptions](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_17_more_exceptions.rb)
 * [Day 18: Queues and Stacks](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_18_stacks_and_queues.rb)
 * [Day 20: Sorting](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_20_sorting.rb)
+* [Day 22: Binary Search Tree](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_22_binary_search_tree.rb)
