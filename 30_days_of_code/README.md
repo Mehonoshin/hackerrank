@@ -4,3 +4,4 @@
 * [Day 16: Exceptions - String to Integer](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_16_string_to_integer.rb)
 * [Day 17: More Exceptions](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_17_more_exceptions.rb)
 * [Day 18: Queues and Stacks](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_18_stacks_and_queues.rb)
+* [Day 20: Sorting](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_20_sorting.rb)
