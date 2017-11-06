@@ -11,3 +11,4 @@ Some tasks are not available for Ruby lang.
 * [Day 23: BST Level-Order Traversal](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_23_bst_level_order.rb)
 * [Day 24: More Linked Lists](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_24_more_linked_lists.rb)
 * [Day 25: Running time and complexity](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_25_runnning_time_and_complexity.rb)
+* [Day 26: Nested logic](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_26_nested_logic.rb)
