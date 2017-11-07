@@ -13,3 +13,4 @@ Some tasks are not available for Ruby lang.
 * [Day 25: Running time and complexity](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_25_runnning_time_and_complexity.rb)
 * [Day 26: Nested logic](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_26_nested_logic.rb)
 * [Day 27: Testing](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_27_testing.rb)
+* [Day 28: Regex](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_28_regex.rb)
