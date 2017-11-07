@@ -14,3 +14,4 @@ Some tasks are not available for Ruby lang.
 * [Day 26: Nested logic](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_26_nested_logic.rb)
 * [Day 27: Testing](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_27_testing.rb)
 * [Day 28: Regex](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_28_regex.rb)
+* [Day 29: Bitwise And](https://github.com/Mehonoshin/hackerrank/blob/master/30_days_of_code/day_29_bitwise_and.rb)
